@@ -1,7 +1,7 @@
 provider "aws" {
     region = "us-east-1"
-    access_key = "AKIA3YAWQSTFG6EOQXGZ"
-    secret_key = "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"  
+    access_key = ""
+    secret_key = ""  
 }
 
 resource "aws_vpc" "prod-vpc" {
